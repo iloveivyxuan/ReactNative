@@ -1957,6 +1957,10 @@ expo-location@~8.0.0:
   dependencies:
     invariant "^2.2.4"
 
+expo-media-library@^8.0.0:
+  version "8.5.0"
+  resolved "https://registry.yarnpkg.com/expo-media-library/-/expo-media-library-8.5.0.tgz#b3364cfaf9458a940c68405ee170f879708d9f4c"
+
 expo-permissions@*, expo-permissions@~8.0.0:
   version "8.0.0"
   resolved "https://registry.npm.taobao.org/expo-permissions/download/expo-permissions-8.0.0.tgz#5a45e8451dd7ff37c9e6ce5e2447818372547813"
@@ -2786,8 +2790,8 @@ lodash.throttle@^4.1.1:
   resolved "https://registry.npm.taobao.org/lodash.throttle/download/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
 
 lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.6.0:
-  version "4.17.15"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.15.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flodash%2Fdownload%2Flodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 log-symbols@^2.2.0:
   version "2.2.0"
